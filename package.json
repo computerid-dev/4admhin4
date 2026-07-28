@@ -1,0 +1,11 @@
+{
+  "name": "echonote-admin",
+  "version": "1.0.0",
+  "description": "EchoNote Admin - dashboard privat pemilik (kelola pengguna, moderasi post, trending, antrean accept/reject)",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "firebase-admin": "^12.1.0",
+    "@vercel/edge": "^1.1.1"
+  }
+}
